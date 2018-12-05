@@ -9,7 +9,7 @@ import org.springframework.stereotype.Controller;
 @Controller
 public class MyController {
     public String hello() {
-        System.out.printf("Hello");
+        System.out.println("Hello");
         return "John";
     }
 }
