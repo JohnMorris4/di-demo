@@ -9,6 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 
 @SpringBootApplication
+//@ComponentScan(basePackages = {"com.services", "com.morrisje"}) //Define the areas of where to find the components
 public class DiDemoApplication {
 
     public static void main(String[] args) {
