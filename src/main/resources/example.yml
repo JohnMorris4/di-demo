@@ -1,0 +1,10 @@
+name: John
+
+names:
+  -John
+  -Ringo
+  -Paul
+
+book:
+  author: Joe Buck
+  publisher: Random House

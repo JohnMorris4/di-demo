@@ -1,0 +1,12 @@
+com:
+  jms:
+    username: Jms UserName
+    password: YAPassword
+    url: Yep you guessed it
+
+---
+spring:
+  profiles: de
+com:
+  jms:
+    username: Jms UserName $$$ German
